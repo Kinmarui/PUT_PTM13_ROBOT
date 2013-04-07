@@ -15,3 +15,8 @@
 *.exe
 *.out
 *.app
+
+*.bin
+*.elf
+# Whole binary/obj folder
+ROBOT1_Flash/
